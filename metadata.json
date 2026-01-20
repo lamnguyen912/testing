@@ -1,0 +1,5 @@
+{
+  "name": "TnD Tracking Pro",
+  "description": "A high-performance dashboard for tracking release progress, member capacity, and daily task logs exported from Google Sheets.",
+  "requestFramePermissions": []
+}
